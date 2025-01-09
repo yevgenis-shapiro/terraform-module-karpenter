@@ -9,7 +9,7 @@ Karpenter is an open-source, flexible, high-performance Kubernetes cluster autos
 ## Key Features of Karpenter
 ```
 ✅ Watching for pods that the Kubernetes scheduler has marked as waiting for schedule
-✅ Evaluating scheduling constraints (resource requests, node selectors, affinities, tolerations, and topology spread constraints) requested by the pods
+✅ Evaluating scheduling constraints (resource requests, node selectors, affinities, tolerations, and topology spread constraints)
 ✅ Provisioning nodes that meet the requirements of the pods
 ✅ Removing the nodes when the nodes are no longer needed
 ```
