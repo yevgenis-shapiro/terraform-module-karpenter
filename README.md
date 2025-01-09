@@ -21,7 +21,7 @@ Karpenter is an open-source, flexible, high-performance Kubernetes cluster autos
 ✅ Crossplane
 ```
 
-## Karpenter Example :
+## Example :
 ```
 apiVersion: karpenter.sh/v1alpha5
 kind: Provisioner
